@@ -1,3 +1,4 @@
+#this script lists all files in the current directory along with their creation dates.
 #!/bin/bash
 
 count=1
