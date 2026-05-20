@@ -22,7 +22,7 @@ int main()
 
         struct dirent *dir;
 
-        while ((dir = readdir()) != NULL)
+        while ((dir = readdir(d)) != NULL)
         {
             printf("found %s", dir->d_name);
         }
