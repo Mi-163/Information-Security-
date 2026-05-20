@@ -1,4 +1,4 @@
-#this program demonstrates the use of various system calls in C, including fork(), stat(), opendir(), readdir(), and execlp().
+//this program demonstrates the use of various system calls in C, including fork(), stat(), opendir(), readdir(), and execlp().
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
